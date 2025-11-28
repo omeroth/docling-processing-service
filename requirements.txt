@@ -1,0 +1,3 @@
+docling-serve
+fastapi
+uvicorn
